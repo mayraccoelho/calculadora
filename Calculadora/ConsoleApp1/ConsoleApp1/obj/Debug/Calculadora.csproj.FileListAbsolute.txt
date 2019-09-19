@@ -1,0 +1,7 @@
+C:\Users\SempreIT\Desktop\Curso C#\Calculadora\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\SempreIT\Desktop\Curso C#\Calculadora\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\SempreIT\Desktop\Curso C#\Calculadora\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\SempreIT\Desktop\Curso C#\Calculadora\ConsoleApp1\ConsoleApp1\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\SempreIT\Desktop\Curso C#\Calculadora\ConsoleApp1\ConsoleApp1\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\SempreIT\Desktop\Curso C#\Calculadora\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\SempreIT\Desktop\Curso C#\Calculadora\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
